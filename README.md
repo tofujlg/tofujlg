@@ -1,8 +1,6 @@
 ### Hi there, welcome to my repo 👋
 
 - Here's [my resume website](https://tofujlg.github.io./)
-- [こちらがレジュメになります](https://tofujlg.github.io./)
-
 
 <!--
 **tofujlg/tofujlg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
