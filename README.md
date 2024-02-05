@@ -1,6 +1,7 @@
 ### Hi there, welcome to my repo 👋
 
 - Here's [my resume website](https://tofujlg.github.io./)
+- Here's [the new one](https://tofujlg.github.io/quartz_hp/)
 
 <!--
 **tofujlg/tofujlg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
